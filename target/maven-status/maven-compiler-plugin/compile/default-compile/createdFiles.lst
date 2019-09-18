@@ -1,0 +1,16 @@
+ru\arthur\webserver\dao\imple\UserDAOJDBCImpl.class
+ru\arthur\webserver\service\interf\UserService.class
+ru\arthur\webserver\servlets\adminServlets\AddServlet.class
+ru\arthur\webserver\servlets\userServlets\UserServlet.class
+ru\arthur\webserver\service\imple\UserServiceImpl.class
+ru\arthur\webserver\servlets\adminServlets\DeleteServlet.class
+ru\arthur\webserver\util\HibernateSessionFactory.class
+ru\arthur\webserver\servlets\adminServlets\UpdateServlet.class
+ru\arthur\webserver\filters\AdminFilter.class
+ru\arthur\webserver\util\ConnectorDAO.class
+ru\arthur\webserver\util\MySqlConnector.class
+ru\arthur\webserver\dao\imple\UserDAOHibernateImpl.class
+ru\arthur\webserver\filters\UserFilter.class
+ru\arthur\webserver\servlets\adminServlets\ListServlet.class
+ru\arthur\webserver\dao\interf\UserDAO.class
+ru\arthur\webserver\model\User.class

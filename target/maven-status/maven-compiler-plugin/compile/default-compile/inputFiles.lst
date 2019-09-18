@@ -1,0 +1,16 @@
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\util\ConnectorDAO.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\dao\interf\UserDAO.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\filters\UserFilter.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\servlets\adminServlets\AddServlet.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\dao\imple\UserDAOJDBCImpl.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\servlets\adminServlets\ListServlet.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\filters\AdminFilter.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\util\MySqlConnector.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\dao\imple\UserDAOHibernateImpl.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\servlets\adminServlets\UpdateServlet.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\servlets\adminServlets\DeleteServlet.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\servlets\userServlets\UserServlet.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\service\interf\UserService.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\util\HibernateSessionFactory.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\model\User.java
+D:\Java\WebServer — копия\src\main\java\ru\arthur\webserver\service\imple\UserServiceImpl.java
